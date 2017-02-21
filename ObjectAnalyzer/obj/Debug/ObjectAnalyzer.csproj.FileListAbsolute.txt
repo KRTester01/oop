@@ -1,1 +1,0 @@
-c:\users\kjessy\documents\visual studio 2015\Projects\ObjectAnalyzer\ObjectAnalyzer\bin\Debug\ObjectAnalyzer.exe.config
